@@ -1,0 +1,14 @@
+Loop:-To execute line of code multiple time
+by default loop execute infinite time
+types:-
+1.Enter Controll
+->use to controll entery 
+    I.while Loop
+    II.For Loop
+    
+2.Exit Controll
+->use to controll exit
+->default it's execute one time even if your condition is false
+    I.Do-while
+----------------------------------
+default Index 0 
